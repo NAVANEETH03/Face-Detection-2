@@ -94,4 +94,3 @@ python main.py --source video.mp4 # For sample video
 ## 🏆 Credits
 
 Built as part of a hackathon organized by Katomaran.
-Special thanks to the open-source AI community for enabling this fusion of vision intelligence and data tracking automation.
