@@ -65,7 +65,7 @@ PROJECT/
 ## ⚙️ Installation
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/NAVANEETH03/Face-Detection-2.git)
+git clone https://github.com/NAVANEETH03/Face-Detection-2.git
 cd project
 ```
 ### 2️⃣ Install dependencies
@@ -88,7 +88,7 @@ python main.py --source video.mp4 # For sample video
 
 
 ## 🎥 Demo Video 
- ▶️ Watch Demo Video
+ ▶️ [Watch Demo Video](https://youtu.be/PPBNjQuz-fw)
 
 
 ## 🏆 Credits
