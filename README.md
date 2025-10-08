@@ -65,8 +65,8 @@ PROJECT/
 ## ⚙️ Installation
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/face-tracker-ai.git
-cd face-tracker-ai
+git clone https://github.com/NAVANEETH03/Face-Detection-2.git)
+cd project
 ```
 ### 2️⃣ Install dependencies
 ```bash
