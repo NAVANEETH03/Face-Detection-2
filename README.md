@@ -14,15 +14,15 @@ Build an AI-driven unique visitor counter that processes a video stream to detec
 📊 Visitor Counter Dashboard – real-time analytics of unique visitors
 
 ## 🧰 Requirements
-ultralytics
-insightface
-opencv-python
-numpy
-sqlite3
-torch
-torchvision
-torchaudio
-onnxruntime
+- ultralytics
+- insightface
+- opencv-python
+- numpy
+- sqlite3
+- torch
+- torchvision
+- torchaudio
+- onnxruntime
 
 ## 🧱 Project Structure
 ```bash
