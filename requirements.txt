@@ -1,0 +1,10 @@
+# Requirements for the project
+ultralytics
+insightface
+opencv-python
+numpy
+sqlite3
+torch
+torchvision
+torchaudio
+onnxruntime
